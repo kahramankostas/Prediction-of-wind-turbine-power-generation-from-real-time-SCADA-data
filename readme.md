@@ -1,5 +1,5 @@
 
-## Prediction of wind turbine power generation from real-time SCADA data
+# Prediction of wind turbine power generation from real-time SCADA data
 
 
 The models to be created for this problem are the models that will predict the power values ​​expected to be produced by a wind turbine. Thus, by comparing the actual production of a wind turbine with these estimation results, it will be presented to the investor to what extent the turbine produces less than it should be. From this point of view, the investor will be able to realize that there is a performance problem related to the turbine and will be able to initiate root cause analysis.
